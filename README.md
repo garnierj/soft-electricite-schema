@@ -1,0 +1,1 @@
+# soft-electricite-schema
